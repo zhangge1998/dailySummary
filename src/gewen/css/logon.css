@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#close{
+    display: block;
+}
+#you{
+    width:30px;
+    height:20px;
+    float:right;
+    background-color: rgba(97, 97, 97, 0.02);
+    border:0;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.log{
+    width: 350px;
+    height: 360px;
+    margin: 0 auto;
+    padding-left: 10px;
+    border-radius: 10px;
+    border:0;
+    background-color: rgba(96, 96, 96, 0.6);
+}
+
+.log input{
+    width:250px;
+    height: 30px;
+    line-height: 25px;
+    margin: 10px;
+}
